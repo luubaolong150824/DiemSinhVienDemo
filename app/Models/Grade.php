@@ -69,3 +69,4 @@ class Grade extends Model
         return 'F';
     }
 }
+// Bài làm của Xuân Nam
